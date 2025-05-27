@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <a href="#" className="text-2xl font-bold mb-4 block">
-                LWS.SHOP
+                E-Commerce Store
               </a>
               <p className="text-gray-600 mb-4">
                 We have clothes that suits your style and which you're proud to

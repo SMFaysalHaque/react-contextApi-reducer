@@ -20,7 +20,7 @@ export default function Header() {
     <header className="border-b border-gray-200 py-4 px-4 md:px-8">
       <div className="container mx-auto flex items-center justify-between">
         <a href="#" className="text-2xl font-bold">
-          LWS.SHOP
+          E-Commerce Store
         </a>
         <nav className="hidden md:flex space-x-6">
           <a href="#" className="hover:text-gray-500 transition-colors">
